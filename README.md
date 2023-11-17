@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Harun Dursun</h1>
-<h3 align="center">A passionate software developer from Turkiye</h3>
+<h3 align="center">A junior software developer from Turkiye</h3>
 
-- 🔭 I’m currently working on **C++, QT**
+- 🔭 Currently, I can work with **C++, QT**.
 
-- 🌱 I’m currently learning **Java, Python, Spring Framework**
+- 🌱 I’m currently learning **Java, Spring Framework**
 
 - 📫 How to reach me **hrndrsn1@gmail.com**
 
