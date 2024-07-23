@@ -4,7 +4,7 @@
 
 - 🔭 Currently, I can work with **C++, QT**.
 
-- 🌱 I’m currently learning **Java, Spring Framework**
+- 🌱 I’m currently learning **Python**
 
 - 📫 How to reach me **hrndrsn1@gmail.com**
 
